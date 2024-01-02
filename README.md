@@ -1,5 +1,5 @@
 # phone-tracker-desktop-side
-Desktop app that tracks down the user's smartphone by fetching the coordinates saved into a Firebase DB
+Desktop app that tracks down the user's smartphone by fetching the coordinates dynamically saved into a Firebase DB
 
 The coordinates are written into the Firebase DB via an Android app designed by one of my Uni colleagues
 
